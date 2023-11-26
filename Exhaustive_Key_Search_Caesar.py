@@ -25,7 +25,7 @@ def exhaustive_key_search(ciphertext):
   
   return results
   
-plaintext = "Saya Memakan" 
+plaintext = "saya suka makan" 
 key = 3
 encrypted = encrypt(plaintext, key)
 
